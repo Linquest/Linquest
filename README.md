@@ -21,9 +21,7 @@ Domínio em HTML, CSS, Javascript, React, Styled-Components, TypeScript, Express
 <br>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linquest&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Linquest&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linquest&show_icons=true&theme=radical)
+![Linquest's Stats](https://github-readme-stats.vercel.app/api?username=Linquest&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Linquest&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 
