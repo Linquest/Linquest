@@ -7,7 +7,7 @@ Noções de web design responsivo;
 Conhecimento montagem e desmontagem de computadores e formatação de sistemas;
 Experiência na construção de projetos Front-End e Back-End, utilizando de tecnologias como o React, Styled-Components, Express e PostgreSQL;
 Com versionamento de código com o Git e o Github;
-Domínio em HTML, CSS, Javascript, React, Styled-Components, TypeScript, Express, Node PostgreSQL;
+Domínio em HTML, CSS, Javascript, React, Styled-Components, TypeScript, Express, Node, PostgreSQL;
 </h4>
 
 ## 💻 Technologies
