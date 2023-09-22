@@ -21,9 +21,11 @@ Domínio em HTML, CSS, Javascript, React, Styled-Components, TypeScript, Express
 <br>
 
 ## 📊 GitHub Stats
-![Linquest's Stats](https://github-readme-stats.vercel.app/api?username=Linquest&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Linquest&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Linquest&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br>
+![Linquest's Stats](https://github-readme-stats.vercel.app/api?username=Linquest&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="465" height="285" />
 
 <!--
 **Linquest/Linquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
